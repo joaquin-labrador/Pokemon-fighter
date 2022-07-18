@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fetch-node": "^0.0.1",
+    "init": "^0.1.2",
+    "java-math": "^1.0.0",
+    "mathjs": "^10.6.4",
+    "node-fetch": "^3.2.8",
+    "start": "^5.1.0"
+  }
+}
